@@ -1,26 +1,18 @@
-// Name: 
-// Intro to CS
-// Period 1
-// Mr. Williams
-// 2019-09-20-Classwork
-
-// Assignment:	Format the code below so that it looks neat.
-//				Use the "next line" style for curly brackets.
-
+//Name: Nathaniel Sanchez
+//Intro to CP
+//Mr. Williams
+//Period 1
+//2019-10-1
 #include <iostream>
 
 int main()
 {
-	std::cout	<< "Name: Mr. Williams" << std::endl 
-                << "Class Schedule" << std::endl
-				<< "Period 1: Intro to CS" <<std::endl
-				<<"Period 2: Earth Science" << std::end
-	            <<"Period 3: PE" << std::endl
-				<< "Period 4: Global History" <<std::endl
-				<< "Period 5: Visual Arts" << std::endl
-	            << "Period 6: Lunch" << std::endl
-	            << "Period 7: Geometry" << std::endl
-	            << "Period 8: House" << std::endl
-	            << "Period 9: Health" << std::endl
-	            << "Period 10: Spanish";
+	// variable
+	char chicken = 'b';
+	char lobster = 'c';
+	char cereal = 'd';
+		//integer
+	int healthpoints = 2147
+short attack points = 346
+int defense points = 546
 }
