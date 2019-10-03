@@ -1,18 +1,20 @@
 //Name: Nathaniel Sanchez
-//Intro to CP
-//Mr. Williams
+//Intro to CS
 //Period 1
-//2019-10-1
+//MR. Williams
+//2019-10-03
+
 #include <iostream>
 
 int main()
+
 {
-	// variable
-	char chicken = 'b';
-	char lobster = 'c';
-	char cereal = 'd';
-		//integer
-	int healthpoints = 2147
-short attack points = 346
-int defense points = 546
+	std::cout << "Enter your favorite number:";
+
+	int favoriteNumber;
+
+	std::cin >> favoriteNumber;
+
+	std::cout << "Cool, " << favoriteNumber << " I like that number too " << std::endl;
+
 }
