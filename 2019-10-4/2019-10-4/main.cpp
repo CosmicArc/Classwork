@@ -15,9 +15,16 @@ int main()
 	cout << "Pi = " << pi << endl;
 	cout << "Pi2 = " << pi2 << endl;
 	
-	float pi = 2 * 5.5 * 3.14
+	double pe = 2 * 5.5 * 3.14;
+	cout << "pe = " << pe << endl;
 	
+	double pe2 = 5.5 * 5.5 * 3.14;
+	cout << "pe = " << pe2 << endl;
 	
-		
+	double pe3 = (2 * 4.5) + (2 * 7.9);
+	cout << "pe3 = " << pe3 << endl;
+	
+	double pe4 = 4.5 * 7.9;
+	cout << "pe4 =" << pe4 << endl;
 		
 }
